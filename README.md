@@ -318,21 +318,18 @@ CSS can become complex for larger applications, and browser compatibility can be
 **3. Work Page**
 ![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/work.png)
 
-**4. Shopping page**
-![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/shopping%20list%20before%20deletion.png)
-
-**5. Shopping list after deletion process**
+**4. Shopping list after deletion process**
 ![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/shopping%20list%20after%20deletion.png)
 
-**6. View of Node.js Server Running**
+**5. View of Node.js Server Running**
 <br>
 ![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/view%20of%20the%20node%20js%20server.png)
 
-**7. MongoDB database View during CRUD operation**
+**6. MongoDB database View during CRUD operation**
 <br>
 ![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/mongodb%20database%20view.png)
 
-**8. Compact view of MongoDB**
+**7. Compact view of MongoDB**
 <br>
 ![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/compact%20view%20of%20data%20in%20mongodb.png)
 
