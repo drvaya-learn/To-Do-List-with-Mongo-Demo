@@ -47,6 +47,9 @@ Open a web browser and visit http://localhost:3000 to access the application.
     -  MongoDB
     -  HTML/CSS
 
+### Course used to make this project:
+  [Web development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
 ## Funtioning of the code:
 
 **- Imports and Setup:**
