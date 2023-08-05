@@ -177,8 +177,7 @@ These Mongoose functions allow the application to perform various database opera
 **1. Node.js:**
 
 **- Advantages:** 
-
-- Node.js is a runtime environment that allows running JavaScript on the server-side. It provides non-blocking, event-driven architecture, making it efficient for handling a large number of connections. Its extensive package ecosystem (npm) simplifies development.
+Node.js is a runtime environment that allows running JavaScript on the server-side. It provides non-blocking, event-driven architecture, making it efficient for handling a large number of connections. Its extensive package ecosystem (npm) simplifies development.
   
 **- Disadvantages:** 
 Single-threaded nature can lead to performance issues for CPU-intensive tasks. Asynchronous programming can be complex.
@@ -307,3 +306,33 @@ CSS can become complex for larger applications, and browser compatibility can be
 **4. Integration with Modern Front-End Frameworks:**
 
 - Both Mongoose and Lodash can be used alongside modern front-end frameworks like React, Angular, or Vue.js for full-stack development.
+
+## Demonstration
+
+**1.Default Page**
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/Default.png)
+
+**2. Added first item in the default page**
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/Added%20first%20item%20in%20default%20list.png)
+
+**3. Work Page**
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/work.png)
+
+**4. Shopping page**
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/shopping%20list%20before%20deletion.png)
+
+**5. Shopping list after deletion process**
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/shopping%20list%20after%20deletion.png)
+
+**6. View of Node.js Server Running**
+<br>
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/view%20of%20the%20node%20js%20server.png)
+
+**7. MongoDB database View during CRUD operation**
+<br>
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/mongodb%20database%20view.png)
+
+**8. Compact view of MongoDB**
+<br>
+![](https://github.com/BhaskarKulshrestha/To-Do-List-with-MongoDB-integrated/blob/main/PICTURES/compact%20view%20of%20data%20in%20mongodb.png)
+
