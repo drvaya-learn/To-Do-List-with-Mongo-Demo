@@ -1,6 +1,6 @@
 FROM node:10
 
-WORKDIR ./
+WORKDIR ./workspace
 
 ENV PORT 8080
 ENV HOST 0.0.0.0
