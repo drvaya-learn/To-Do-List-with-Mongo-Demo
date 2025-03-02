@@ -1,19 +1,20 @@
-FROM node:10
+# Use an official Node.js runtime as a base image
+FROM node:18-alpine
 
+# Set the working directory inside the container
 WORKDIR /app
 
-ENV PORT 8080
-ENV HOST 0.0.0.0
-
+# Copy package.json and package-lock.json first
 COPY package*.json ./
 
-RUN npm install --only=production
+# Install project dependencies
+RUN npm install
 
-# Copy the local code to the container
+# Copy the entire project into the container
 COPY . .
 
-# Build production app
-# RUN npm run Build
+# Expose port 3000
+EXPOSE 3000
 
-# Start the service
-CMD npm start
+# Command to start the application
+CMD ["node", "app.js"]
